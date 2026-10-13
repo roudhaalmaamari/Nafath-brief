@@ -1,11 +1,11 @@
-verion:NAFATH-V2
-track:cybersecurity 
-overview 
-software 
+Verion: NAFATH-V2
+Track:Cybersecurity 
+Overview  
+Software 
 AI
-mobile 
-networking 
-cybersecurity 
-data 
-miscommunication in my track 
-open question 
+Mobile 
+Networking 
+Cybersecurity 
+Data 
+Misconception in My Track 
+Open Question 
