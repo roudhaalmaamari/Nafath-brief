@@ -24,4 +24,5 @@ Resource: NIST - SP 800-61 Rev. 3, Incident Response Recommendations and Conside
 Misconception in My Track 
 A common misconception is that incident response begins only after a cyberattack occurs and focuses solely on fixing the immediate damage. In reality, effective incident response also depends on preparation, risk management, and continuous improvement. For the 5G emergency service, the operator should prepare response plans, monitor threats, contain incidents, recover services, and learn from each event. NIST explains this broader approach in SP 800-61 Rev. 3, under the “Abstract” heading, which describes integrating incident response recommendations throughout cybersecurity risk management activities.
 Open Question 
+
 How can the operator test whether its incident response plan restores emergency 5G communications quickly enough during a large-scale cyberattack?
