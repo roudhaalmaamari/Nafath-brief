@@ -12,7 +12,14 @@ Mobile
 When offline, a responder's app should clearly show connection status and preserve essential information locally, allowing safe access to previously downloaded instructions and recording permitted updates. When connectivity returns, the app should synchronize queued changes securely, retry temporary failures, and detect conflicts instead of silently overwriting newer data. Sensitive information should be protected on the device, and users should be told when updates are still pending.
 Resource: Android Developers - Build an offline-first app - https://developer.android.com/topic/architecture/data-layer/offline-first
 Networking 
+5G network slicing allows an operator to create logical network slices with different resources and service requirements on shared infrastructure. A dedicated slice for emergency responders could be configured for high priority, low latency, and reliable communications during congestion. The operator should monitor its performance and apply appropriate security controls. A slice improves service isolation and resource management, but it does not guarantee availability during every outage.
+Resource: 3GPP - Management and orchestration of 5G networks and network slicing - https://portal.3gpp.org/desktopmodules/WorkItem/WorkItemDetails.aspx?workitemId=760066 
 Cybersecurity 
+Incident response involves preparation, detection and analysis, containment, eradication and recovery, and post-incident activity. The operator should prepare response plans and monitoring tools, identify suspicious traffic or attacks, and assess their impact. The team then isolates affected systems, removes the threat, restores trusted services, and verifies recovery. Finally, it documents lessons learned and improves controls to reduce the chance and impact of future incidents.
+Resource: NIST - SP 800-61 Rev. 3, Incident Response Recommendations and Considerations for Cybersecurity Risk Management - https://csrc.nist.gov/pubs/sp/800/61/r3/final
 Data 
+Incident response involves preparation, detection and analysis, containment, eradication and recovery, and post-incident activity. The operator should prepare response plans and monitoring tools, identify suspicious traffic or attacks, and assess their impact. The team then isolates affected systems, removes the threat, restores trusted services, and verifies recovery. Finally, it documents lessons learned and improves controls to reduce the chance and impact of future incidents.
+Resource: NIST - SP 800-61 Rev. 3, Incident Response Recommendations and Considerations for Cybersecurity Risk Management - https://csrc.nist.gov/pubs/sp/800/61/r3/final
+
 Misconception in My Track 
 Open Question 
